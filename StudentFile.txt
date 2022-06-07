@@ -1,1 +1,2 @@
 Student Files
+A process has requested access to an object, but has not been granted those access rights.
